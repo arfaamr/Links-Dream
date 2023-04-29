@@ -1,0 +1,19 @@
+1100
+750
+12
+0
+0
+Link
+1
+1
+0
+None;None;None;None;None;None;None;None;None
+2082&592&3;None;None;None;None;403&320&5;None;887&885&5*432&130&5;None
+322&188&1&0&None&294&178&54&40&sign0&~Use the mouse to lead the character around.&Click or hold the mouse buttons to use items.&Click the scroll wheel to have your character walk somewhere instead of following the mouse.&Roll the scroll wheel to roll.&Good luck on your adventure!*648&396&1&0&None&633&405&25&15&sign1&Bombs strictly prohibited*984&180&1&0&None&965&186&30&21&sign2&Welcome to the South Hyrule Field!&CAUTION! Minish Woods ahead.&Visit Smith the Blacksmith for a strong,durable,shiny,new sword!*191&618&2&1&None&179&630&15&8&chest0&-You got 5 rupees! You might be able to buy something someday!;None;184&175&2&1&None&175&165&20&30&chest0&-You got...nothing? The chest was empty.;184&175&2&1&None&175&165&20&30&chest0&-You got 1 rupee! ...That's kinda sad.;555&350&0&0.25&None&497&319&105&76&smith&Ah Link, where have you been?&If you're heading into the forest, be careful. There have been more monsters around lately.&Take your boomerang, it should be just southeast of here.&I'm working now, so we'll talk more later.*275&179&2&1&None&260&160&30&40&chest0&-You got 20 rupees! 20! 20 whole rupees! Aw yeah!;None;406&295&3&0.4&boomerang&383&346&52&15&big_chest0&-You got a boomerang! Now you can kill enemies while social distancing!;433&230&1&0&None&401&215&44&54&sign3&No swimming! Seriously.*133&888&1&0&None&1096&860&76&20&sign3&Danger! Deepwood Shrine ahead.&Take the heart piece and enter well-prepared.;1164&1065&2&1&None&1150&1050&30&30&chest0&-You got 5 rupees! That's exciting, I guess?*1222&776&2&1&None&1200&760&40&40&chest0&-You got 20 rupees! It's...not as cool the second time.
+0
+2134
+0
+0
+0
+1
+0
